@@ -1,0 +1,16 @@
+{
+    "path": "/home/drgra/www/testtask01",
+
+    "mongodb": {
+        "url": "mongodb://localhost:27017",
+        "db": "testtask01"
+    },
+
+    "server": {
+        "api": {
+            "host": "http://127.0.0.1",
+            "port": 2020,
+            "loglevel": "DEBUG"
+        }
+    }
+}
